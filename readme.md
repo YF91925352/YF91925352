@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A passionate frontend developer from China，based in Copenhagen.</h3>
 
-- 🌱 I’m currently learning **full stack technology in Hack Your Future bootcamp**
+- 🌱 I’m currently learning **Next.js and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YF91925352](https://github.com/YF91925352)
 
-- 💬 Ask me about **React,Typescript,Nodejs,SASS**
+- 💬 Ask me about **React,Nodejs,SASS**
 
 - 📫 How to reach me **zyf91925352@outlook.com**
 
-- ⚡ Fun fact **I thrive in team environments where I can work closely with designers, PM, and other developers to bring ideas to life.I enjoy taking on new challenges and am passionate about using my skills to create meaningful user interfaces and solve problems.I am a quick learner and am always looking for opportunities to expand my skill set and stay up-to-date with the latest trends in frontend development**
+- ⚡ Fun fact **I thrive in team environments where I can work closely with designers, PM, and other developers to bring ideas to life.I am a quick learner and am always looking for opportunities to expand my skill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
